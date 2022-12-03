@@ -1,0 +1,8 @@
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\obj\Debug\2020 Day2.csproj.AssemblyReference.cache
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\obj\Debug\2020 Day2.csproj.SuggestedBindingRedirects.cache
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\obj\Debug\2020 Day2.csproj.CoreCompileInputs.cache
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\bin\Debug\2020 Day2.exe.config
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\bin\Debug\2020 Day2.exe
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\bin\Debug\2020 Day2.pdb
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\obj\Debug\2020 Day2.exe
+\\RHEA\HOME\2022\22AW0070\Documents\Visual Studio 2022\Advent of code\AoC2021\2020 Day2\2020 Day2\obj\Debug\2020 Day2.pdb
